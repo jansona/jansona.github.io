@@ -1,0 +1,4 @@
+baseURL = 'http://jansona.github.io/'
+languageCode = 'en-us'
+title = 'tomo sona'
+theme = "paper"
